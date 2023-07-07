@@ -16,7 +16,6 @@ import java.util.logging.Logger;
 import javax.swing.DefaultComboBoxModel;
 import javax.swing.table.DefaultTableModel;
 import model.product;
-import net.sf.jasperreports.engine.JRException;
 import net.sf.jasperreports.engine.JasperFillManager;
 import net.sf.jasperreports.engine.data.JRTableModelDataSource;
 import net.sf.jasperreports.view.JasperViewer;
